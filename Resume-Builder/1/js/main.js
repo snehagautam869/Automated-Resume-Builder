@@ -2,7 +2,7 @@ document.querySelector('#page').contentEditable = true;
 
 defaultTemplateVars = [ "fontDroid" , "caseNormal" , "titleRuled" , "ruleAbove" , "imageShow" , "rollShow" , "course1" , "tableShow" , "edyearFirst" , "experience1" , "projects1" ]
 
-$('.toggle-option').click(function(){
+$('.toggle-option')click(function(){
 	toggleType = $(this).attr('data-toggle');
 	toggleValue = $(this).attr('id');
 	if(!$(this).hasClass('multi-select'))

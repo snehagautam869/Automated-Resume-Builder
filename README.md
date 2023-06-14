@@ -28,10 +28,4 @@ Web based editor to create Resume in a customizable template with the facility t
 **Note** : Use Google Chrome
 
 ----------------------------------------------------------------------------------------------------------------
-To setup the project on your local machine:
-
-1. Click on `Fork`.
-2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/Resume-Builder.git`
-
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.

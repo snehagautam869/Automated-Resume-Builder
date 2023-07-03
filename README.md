@@ -1,3 +1,6 @@
+# LIVE DEMO 👇
+https://resumebuildweb.netlify.app
+
 # Resume generator
 Web based editor to create Resume in a customizable template with the facility to save the file in .pdf formate.  
 
@@ -29,3 +32,5 @@ Web based editor to create Resume in a customizable template with the facility t
 
 ----------------------------------------------------------------------------------------------------------------
 For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
+![Web capture_3-7-2023_17155_resumebuildweb netlify app](https://github.com/snehagautam869/Automated-Resume-Builder/assets/79215346/84677393-9d8b-437a-a056-15908bbf7f97)
+
